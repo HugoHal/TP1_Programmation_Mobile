@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EXO8_trains</string>
+    <string name="global_information">Service d\'Horaires de Trains</string>
+    <string name="Start">Je pars de : </string>
+    <string name="End">J\'arrive à :</string>
+    <string name="Valider">Valider</string>
+
+
+</resources>

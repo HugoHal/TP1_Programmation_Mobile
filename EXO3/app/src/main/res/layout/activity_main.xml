@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    android:columnCount="2"
+    android:gravity="center"
+    android:padding="16dp">
+
+    <Space
+        android:layout_width="141dp"
+        android:layout_height="133dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/global_information"
+        android:textSize="22sp"
+        android:textColor="@color/black"
+        android:layout_columnSpan="2"
+        android:layout_marginBottom="20dp" />
+
+    <Space
+        android:layout_width="125dp"
+        android:layout_height="52dp" />
+
+    <Space
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView android:text="@string/Nom"
+        android:textColor="@color/black"/>
+    <EditText
+        android:id="@+id/editNom"
+        android:layout_width="200dp"
+        android:hint="Nom" />
+
+    <TextView android:text="@string/Prénom"
+        android:textColor="@color/black"/>
+    <EditText
+        android:id="@+id/editPrenom"
+        android:layout_width="200dp"
+        android:hint="Prénom" />
+
+    <TextView android:text="@string/Âge"
+        android:textColor="@color/black"/>
+    <EditText
+        android:id="@+id/editAge"
+        android:layout_width="200dp"
+        android:hint="Âge"
+        android:inputType="number" />
+
+    <TextView android:text="@string/Domaine"
+        android:textColor="@color/black"/>
+    <EditText
+        android:id="@+id/editCompetences"
+        android:layout_width="200dp"
+        android:hint="Compétences" />
+
+    <TextView android:text="@string/Téléphone"
+        android:textColor="@color/black"/>
+    <EditText
+        android:id="@+id/editTelephone"
+        android:layout_width="200dp"
+        android:hint="Téléphone"
+        android:inputType="phone" />
+
+    <Space
+        android:layout_width="50dp"
+        android:layout_height="69dp" />
+
+    <Button
+        android:id="@+id/btnValider"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_columnSpan="2"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:onClick="onValiderClick"
+        android:text="@string/Valider" />
+
+</GridLayout>

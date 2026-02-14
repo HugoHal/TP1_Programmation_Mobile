@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Exo9 Agenda</string>
+
+    <string name="select_date_default">Select a date</string>
+    <string name="fab_add">+</string>
+
+    <string name="new_event_title">New Event</string>
+    <string name="hint_event_name">Event name</string>
+    <string name="btn_choose_time">Choose time</string>
+    <string name="hint_event_location">Location</string>
+    <string name="label_color">Color:</string>
+    <string name="color_red">Red</string>
+    <string name="color_blue">Blue</string>
+    <string name="color_green">Green</string>
+
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_validate">Save</string>
+    <string name="error_name_required">Name is required</string>
+
+    <string name="delete_title">Delete event?</string>
+    <string name="delete_message">Do you really want to delete \'%1$s\'?</string>
+    <string name="btn_yes">Yes</string>
+    <string name="btn_no">No</string>
+    <string name="toast_deleted">Event deleted</string>
+
+    <string name="preview_event_name">Event Name</string>
+    <string name="preview_event_time">2:00 PM</string>
+    <string name="preview_event_location">Event location</string>
+
+    <string name="date_format_label">Date: %1$s</string>
+    <string name="time_format_label">Time: %1$s</string>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EXO3</string>
+    <string name="global_information"> Veuillez donner vos informations personnels</string>
+    <string name="Nom">Nom : </string>
+    <string name="Prénom">Prénom :</string>
+    <string name="Âge">Âge :</string>
+    <string name="Domaine">Domaine de compétences :</string>
+    <string name="Téléphone">"Téléphone : "</string>
+    <string name="Valider">Valider</string>
+    <string name="Retour">Retour</string>
+    <string name="Appeller">Appeller</string>
+    <string name="global_information_Recap">Vos informations</string>
+
+
+</resources>

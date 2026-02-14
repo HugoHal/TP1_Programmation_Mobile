@@ -1,0 +1,45 @@
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:columnCount="2"
+    android:background="@color/background"
+    android:gravity="center"
+    android:padding="16dp">
+
+    <Space
+        android:layout_width="141dp"
+        android:layout_height="133dp" />
+
+    <TextView android:text="@string/global_information_Recap" android:textSize="18sp" android:layout_columnSpan="2"/>
+
+    <Space
+        android:layout_width="125dp"
+        android:layout_height="52dp" />
+
+    <Space
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView android:text="@string/Nom" android:textStyle="bold" />
+    <TextView android:id="@+id/resNom" android:layout_marginLeft="8dp" />
+
+    <TextView android:text="@string/Prénom" android:textStyle="bold" />
+    <TextView android:id="@+id/resPrenom" android:layout_marginLeft="8dp" />
+
+    <TextView android:text="@string/Âge" android:textStyle="bold" />
+    <TextView android:id="@+id/resAge" android:layout_marginLeft="8dp" />
+
+    <TextView android:text="@string/Domaine" android:textStyle="bold" />
+    <TextView android:id="@+id/resComp" android:layout_marginLeft="8dp" />
+
+    <TextView android:text="@string/Téléphone" android:textStyle="bold" />
+    <TextView android:id="@+id/resTel" android:layout_marginLeft="8dp" />
+
+    <Space
+        android:layout_width="50dp"
+        android:layout_height="69dp" />
+
+    <Button android:id="@+id/btnOK" android:text="OK" android:layout_columnSpan="2" android:layout_gravity="fill_horizontal" android:layout_marginTop="20dp"/>
+    <Button android:id="@+id/btnRetour" android:text="@string/Retour" android:layout_columnSpan="2" android:layout_gravity="fill_horizontal" />
+
+</GridLayout>

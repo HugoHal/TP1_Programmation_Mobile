@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EXO8_trains</string>
+    <string name="global_information">Trains timetable services</string>
+    <string name="Start">I come from :</string>
+    <string name="End">I go to :</string>
+    <string name="Valider">Validate</string>
+</resources>

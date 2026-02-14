@@ -1,0 +1,50 @@
+[
+  {"depart": "Paris", "arrivee": "Lyon", "horaires": ["06:00", "12:00", "18:00"]},
+  {"depart": "Paris", "arrivee": "Marseille", "horaires": ["07:15", "13:15", "19:15"]},
+  {"depart": "Paris", "arrivee": "Nice", "horaires": ["08:30", "14:30", "20:30"]},
+  {"depart": "Paris", "arrivee": "Nantes", "horaires": ["09:00", "15:00", "21:00"]},
+  {"depart": "Paris", "arrivee": "Montpellier", "horaires": ["06:45", "12:45", "18:45"]},
+  {"depart": "Paris", "arrivee": "Toulouse", "horaires": ["10:00", "16:00", "22:00"]},
+
+  {"depart": "Lyon", "arrivee": "Paris", "horaires": ["06:30", "12:30", "18:30"]},
+  {"depart": "Lyon", "arrivee": "Marseille", "horaires": ["08:00", "14:00", "20:00"]},
+  {"depart": "Lyon", "arrivee": "Nice", "horaires": ["09:15", "15:15", "21:15"]},
+  {"depart": "Lyon", "arrivee": "Nantes", "horaires": ["07:45", "13:45", "19:45"]},
+  {"depart": "Lyon", "arrivee": "Montpellier", "horaires": ["10:30", "16:30", "22:30"]},
+  {"depart": "Lyon", "arrivee": "Toulouse", "horaires": ["11:00", "17:00", "23:00"]},
+
+  {"depart": "Marseille", "arrivee": "Paris", "horaires": ["05:45", "11:45", "17:45"]},
+  {"depart": "Marseille", "arrivee": "Lyon", "horaires": ["07:00", "13:00", "19:00"]},
+  {"depart": "Marseille", "arrivee": "Nice", "horaires": ["08:15", "14:15", "20:15"]},
+  {"depart": "Marseille", "arrivee": "Nantes", "horaires": ["06:20", "12:20", "18:20"]},
+  {"depart": "Marseille", "arrivee": "Montpellier", "horaires": ["09:40", "15:40", "21:40"]},
+  {"depart": "Marseille", "arrivee": "Toulouse", "horaires": ["10:10", "16:10", "22:10"]},
+
+  {"depart": "Nice", "arrivee": "Paris", "horaires": ["06:10", "12:10", "18:10"]},
+  {"depart": "Nice", "arrivee": "Lyon", "horaires": ["08:20", "14:20", "20:20"]},
+  {"depart": "Nice", "arrivee": "Marseille", "horaires": ["07:30", "13:30", "19:30"]},
+  {"depart": "Nice", "arrivee": "Nantes", "horaires": ["05:50", "11:50", "17:50"]},
+  {"depart": "Nice", "arrivee": "Montpellier", "horaires": ["09:00", "15:00", "21:00"]},
+  {"depart": "Nice", "arrivee": "Toulouse", "horaires": ["11:20", "17:20", "23:20"]},
+
+  {"depart": "Nantes", "arrivee": "Paris", "horaires": ["07:05", "13:05", "19:05"]},
+  {"depart": "Nantes", "arrivee": "Lyon", "horaires": ["08:45", "14:45", "20:45"]},
+  {"depart": "Nantes", "arrivee": "Marseille", "horaires": ["06:15", "12:15", "18:15"]},
+  {"depart": "Nantes", "arrivee": "Nice", "horaires": ["09:30", "15:30", "21:30"]},
+  {"depart": "Nantes", "arrivee": "Montpellier", "horaires": ["10:15", "16:15", "22:15"]},
+  {"depart": "Nantes", "arrivee": "Toulouse", "horaires": ["11:55", "17:55", "23:55"]},
+
+  {"depart": "Montpellier", "arrivee": "Paris", "horaires": ["06:50", "12:50", "18:50"]},
+  {"depart": "Montpellier", "arrivee": "Lyon", "horaires": ["08:10", "14:10", "20:10"]},
+  {"depart": "Montpellier", "arrivee": "Marseille", "horaires": ["07:25", "13:25", "19:25"]},
+  {"depart": "Montpellier", "arrivee": "Nice", "horaires": ["09:40", "15:40", "21:40"]},
+  {"depart": "Montpellier", "arrivee": "Nantes", "horaires": ["10:05", "16:05", "22:05"]},
+  {"depart": "Montpellier", "arrivee": "Toulouse", "horaires": ["11:30", "17:30", "23:30"]},
+
+  {"depart": "Toulouse", "arrivee": "Paris", "horaires": ["06:25", "12:25", "18:25"]},
+  {"depart": "Toulouse", "arrivee": "Lyon", "horaires": ["08:35", "14:35", "20:35"]},
+  {"depart": "Toulouse", "arrivee": "Marseille", "horaires": ["07:50", "13:50", "19:50"]},
+  {"depart": "Toulouse", "arrivee": "Nice", "horaires": ["09:05", "15:05", "21:05"]},
+  {"depart": "Toulouse", "arrivee": "Nantes", "horaires": ["10:40", "16:40", "22:40"]},
+  {"depart": "Toulouse", "arrivee": "Montpellier", "horaires": ["11:15", "17:15", "23:15"]}
+]

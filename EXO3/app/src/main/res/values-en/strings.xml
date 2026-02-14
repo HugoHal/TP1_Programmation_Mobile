@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EXO3</string>
+    <string name="global_information">please give personnals informations</string>
+    <string name="Nom">Name :</string>
+    <string name="Prénom">FirstName :</string>
+    <string name="Âge">Age :</string>
+    <string name="Domaine">"Competence area : "</string>
+    <string name="Téléphone">Phone Number :</string>
+    <string name="Valider">Validate</string>
+    <string name="Retour">Return</string>
+    <string name="Appeller">Call</string>
+    <string name="global_information_Recap">Your informations</string>
+</resources>
